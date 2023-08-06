@@ -1,0 +1,13 @@
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\bin\Debug\Sim Afk.exe.config
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\bin\Debug\Sim Afk.exe
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\bin\Debug\Sim Afk.pdb
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\bin\Debug\Guna.UI2.dll
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.csproj.AssemblyReference.cache
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim_Afk.Main.resources
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim_Afk.Properties.Resources.resources
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.csproj.GenerateResource.cache
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.csproj.CoreCompileInputs.cache
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.csproj.CopyComplete
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.exe
+C:\Users\Eldahoq\source\repos\Sim Afk\Sim Afk\obj\Debug\Sim Afk.pdb
